@@ -43,7 +43,7 @@
               img(src='@/assets/curso/temas/t1/4.svg', alt='')
             .col-sm-12.col-lg-10
                 p.mb-0  Por ejemplo: un estudiante del programa de gastronomía del SENA que desee crear una plataforma para ofrecer servicios de banquetes puede centrarse en estructurar secciones como menús, galerías, testimonios y formularios de cotización, utilizando módulos preconstruidos (#[i plugins]), en lugar de invertir tiempo en programar cada funcionalidad desde cero. Esto facilita la transformación de las necesidades del usuario final en soluciones digitales funcionales, eficientes y coherentes.
-          p.mb-0 WordPress ofrece una arquitectura modular que permite ampliar las funcionalidades de un sitio web mediante #[i plugins] y plantillas, adaptándose a los requerimientos específicos de cada proyecto. Esta flexibilidad posibilita la creación de sitios escalables, desde blogs personales hasta plataformas corporativas, sin comprometer la seguridad ni la estabilidad del sistema.
+          p.mb-0 WordPress ofrece una arquitectura modular que permite ampliar las funcionalidades de un sitio web mediante #[i plugins] y plantillas, adaptándose a los requerimientos específicos de cada proyecto. Esta flexibilidad posibilita la creación de sitios escalables, desde #[i blogs] personales hasta plataformas corporativas, sin comprometer la seguridad ni la estabilidad del sistema.
         .col-sm-12.col-lg-5.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/5.png', alt='')
 
@@ -148,7 +148,7 @@
         .col-sm-12.col-lg-3.d-none.d-lg-block.mx-0.px-0
           img(src='@/assets/curso/temas/t1/8.svg', alt='')
         .col-sm-12.col-lg-9.bg-color-2.p-4.mx-0.align-items-center
-            p.mb-0.mg-cus-1 La elección entre ambas opciones debe basarse en un análisis de los requerimientos del proyecto. Si un usuario requiere un blog personal transitorio para una tarea académica, la inmediatez de WordPress.com resulta adecuada. No obstante, si un aprendiz desarrolla el sitio web corporativo de una Pyme que incluirá comercio electrónico, aulas virtuales o sistemas de reservas complejos, la estructura cerrada de WordPress.com constituirá un impedimento, haciendo necesaria la elección de WordPress.org para garantizar el control de la información y la soberanía de los datos empresariales. En el contexto de esta formación y de la práctica profesional, el enfoque principal se orienta hacia el dominio de la versión autoalojada (WordPress.org), debido a su potencial formativo y su impacto en el sector productivo.
+            p.mb-0.mg-cus-1 La elección entre ambas opciones debe basarse en un análisis de los requerimientos del proyecto. Si un usuario requiere un #[i blog] personal transitorio para una tarea académica, la inmediatez de WordPress.com resulta adecuada. No obstante, si un aprendiz desarrolla el sitio web corporativo de una Pyme que incluirá comercio electrónico, aulas virtuales o sistemas de reservas complejos, la estructura cerrada de WordPress.com constituirá un impedimento, haciendo necesaria la elección de WordPress.org para garantizar el control de la información y la soberanía de los datos empresariales. En el contexto de esta formación y de la práctica profesional, el enfoque principal se orienta hacia el dominio de la versión autoalojada (WordPress.org), debido a su potencial formativo y su impacto en el sector productivo.
   </template>
 
 <script>

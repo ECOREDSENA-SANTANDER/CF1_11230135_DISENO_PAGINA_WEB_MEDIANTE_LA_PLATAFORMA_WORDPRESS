@@ -192,14 +192,7 @@ export default {
       },
     ],
   },
-  complementario: [
-    {
-      tema: 'Tema 1',
-      referencia: 'Texto',
-      tipo: 'Sitio web',
-      link: 'Link',
-    },
-  ],
+  complementario: [],
   glosario: [
     {
       termino: 'Accesibilidad web',
@@ -310,7 +303,7 @@ export default {
 
     {
       referencia:
-        'García, L. M. (2022). Diseño de interfaces web y experiencia de usuario en entornos formativos digitales. Editorial Síntesis.',
+        'García, L. M. (2022). Diseño de interfaces web y experiencia de usuario en entornos formativos digitales. Síntesis.',
     },
 
     {
@@ -334,7 +327,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Responsable del ecosistema',
+          cargo:
+            'Profesional G06. Responsable Ecosistema Virtual de Recursos Educativos Digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

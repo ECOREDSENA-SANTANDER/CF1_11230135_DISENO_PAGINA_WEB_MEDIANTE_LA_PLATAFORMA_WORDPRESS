@@ -119,7 +119,7 @@ export default {
             {
               id: 'c',
               texto:
-                'Como una red social orientada únicamente a blogs personales.',
+                'Como una red social orientada únicamente a <i>blogs</i> personales.',
               esCorrecta: false,
             },
             {
@@ -692,7 +692,8 @@ export default {
             },
             {
               id: 'd',
-              texto: 'La creación automática de subcategorías en el blog.',
+              texto:
+                'La creación automática de subcategorías en el <i>blog</i>.',
               esCorrecta: false,
             },
           ],

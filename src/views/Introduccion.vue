@@ -23,7 +23,7 @@
         figure
           .video
             iframe(width="560" height="315" src="https://www.youtube.com/embed/gA6wx8KFLuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption Video. Entorno de Trabajo y Arquitectura en WordPress
+        figcaption Video. Entorno de trabajo y arquitectura en WordPress
 
 
 </template>

@@ -21,12 +21,12 @@
           .bg-color-1.p-4.mb-5
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-2.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t4/3.svg', alt='')
+                img(src='@/assets/curso/temas/t4/3.svg')
               .col-sm-12.col-lg-10
                   p.mb-0 Las categorías constituyen la columna vertebral de la organización temática del sitio. Permiten agrupar contenidos relacionados, facilitando la navegación y mejorando la comprensión de los usuarios. La correcta asignación de categorías desde el inicio evita la duplicación de información y contribuye al posicionamiento SEO, al establecer jerarquías claras dentro del sitio.
           p.mb-0 Las etiquetas funcionan como puntos de conexión transversal entre contenidos. A diferencia de las categorías, no implican jerarquía, sino relaciones contextuales que permiten a los usuarios explorar temas relacionados de manera intuitiva. Una planificación adecuada de etiquetas ayuda a generar mapas de contenido que refuerzan la experiencia del usuario y la accesibilidad de la información.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/4.png', alt='')
+          img(src='@/assets/curso/temas/t4/4.png')
 
       p.mb-0(data-aos='fade-right') Los menús y la navegación principal constituyen la interfaz estructural que guía al visitante por el sitio web. Diseñar menús claros, coherentes y consistentes permite que los usuarios encuentren rápidamente la información que buscan. Además, los menús bien planificados ayudan a distribuir autoridad de página para SEO, asegurando que las secciones más importantes sean fácilmente rastreables por los motores de búsqueda.
 
@@ -36,19 +36,19 @@
       #t_4_1.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 4.1 Categorías taxonómicas
       
-      img.mb-5.d-none.d-lg-block(src='@/assets/curso/temas/t4/5.png', alt='')(data-aos='fade-right')
+      img.mb-5.d-none.d-lg-block(src='@/assets/curso/temas/t4/5.png')(data-aos='fade-right')
       p.mb-5(data-aos='fade-right') Las categorías en WordPress funcionan como un sistema de clasificación jerárquico, diseñado para agrupar contenidos que comparten una temática general. Son la forma más amplia de organizar la información y su propósito principal es guiar al usuario a través de las diferentes áreas temáticas del sitio web. Desde el punto de vista técnico, actúan como contenedores de información; cuando se crea una categoría, WordPress genera automáticamente una página que reúne todas las publicaciones asociadas a esa temática en orden cronológico.
 
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/6.png', alt='')
+          img(src='@/assets/curso/temas/t4/6.png')
         .col-sm-12.col-lg-7 
           p.mb-3 Desde una perspectiva pedagógica y de diagramación, las categorías deben planificarse antes de publicar el primer contenido. Un error frecuente en personas sin formación en diseño web es crearlas de manera improvisada, lo que genera una estructura desorganizada y difícil de entender. Como principio general, las categorías deben ser amplias, claras y coherentes entre sí. Además, permiten establecer jerarquías mediante subcategorías, lo que facilita una organización más detallada del contenido.
           .bg-color-1.p-4.mb-0
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-2.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t4/7.svg', alt='')
+                img(src='@/assets/curso/temas/t4/7.svg')
               .col-sm-12.col-lg-10
                   p.mb-0 Es importante comprender que una buena estructura de categorías mejora tanto la experiencia del usuario como la navegación dentro del sitio. Cuando las categorías están bien definidas, el visitante puede ubicar la información de forma rápida y lógica, sin necesidad de recorrer múltiples páginas sin orientación clara.
       
@@ -77,9 +77,9 @@
                     p.mb-0 Casos de éxito.
                 
         .col-sm-12.col-lg-3.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/8.svg', alt='')
+          img(src='@/assets/curso/temas/t4/8.svg')
         .col-sm-12.col-lg-5
-          img.mb-3.w-cus-4.d-none.d-lg-block(src='@/assets/curso/temas/t4/9.svg', alt='')
+          img.mb-3.w-cus-4.d-none.d-lg-block(src='@/assets/curso/temas/t4/9.svg')
           p.mb-3 Si la categoría “Financiación” crece en contenido, puede dividirla en subcategorías como “capital semilla” y “créditos bancarios”.
           p.mb-0 Esta organización no solo facilita el acceso a la información, sino que también permite al usuario comprender de manera visual la estructura del sitio y los servicios ofrecidos. De esta forma, la arquitectura del contenido se convierte en una herramienta clave para mejorar la usabilidad, la claridad y el impacto del sitio web.
       
@@ -95,7 +95,7 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t4/10.png', alt='')
+          img(src='@/assets/curso/temas/t4/10.png')
         .col-sm-12.col-lg-8.bg-color-2.p-4.mx-0
             p.mb-3 Mientras que las categorías son jerárquicas y obligatorias (si no se asigna una, WordPress clasifica el contenido por defecto en “sin categoría”), las etiquetas son opcionales, transversales y no jerárquicas. Las etiquetas funcionan como un sistema de microclasificación, similar al índice analítico que se encuentra al final de un libro. Su función es describir aspectos específicos de un contenido, permitiendo relacionar información entre diferentes categorías.
             p.mb-0 Desde el punto de vista práctico, las etiquetas facilitan la navegación y el descubrimiento de contenidos relacionados. Un usuario puede acceder a una etiqueta y visualizar todos los artículos que comparten ese mismo tema, aunque pertenezcan a diferentes categorías. Esto mejora la experiencia de navegación y permite explorar el sitio de manera más flexible.
@@ -105,7 +105,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t4/11.svg', alt='')
+          img(src='@/assets/curso/temas/t4/11.svg')
         .col-sm-12.col-lg-8.bg-color-2.p-4.mx-0
             p.mb-3.mg-cus-5 Ejemplo en contexto de formación profesional: un artículo titulado “cómo registrar una empresa de tecnología en Colombia” puede pertenecer a la categoría “Legalidad”. Sin embargo, puede incluir etiquetas como “#[i software]”, “Cámara de comercio” y “Emprendimiento digital”. Si un usuario selecciona la etiqueta “#[i software]”, el sistema mostrará este contenido junto con otros relacionados, aunque pertenezcan a diferentes categorías.
             p.mb-0 De esta manera, las etiquetas permiten crear conexiones entre contenidos y facilitar rutas de navegación más dinámicas, contribuyendo a una mejor organización de la información y a una experiencia de usuario más clara y eficiente.
@@ -131,7 +131,7 @@
 
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/12.svg', alt='')
+          img(src='@/assets/curso/temas/t4/12.svg')
         .col-sm-12.col-lg-8.bg-color-4.p-4
             .bg-color-7.p-3.mb-4.mg-cus-6
               h4.mb-0.text-white Entradas (contenido dinámico y cronológico)
@@ -150,13 +150,13 @@
             .col-sm-12.col-lg-8
               .row.justify-content-center.mb-4
                 .col-sm-12.col-lg-2.d-none.d-lg-block
-                  img.w-75(src='@/assets/curso/temas/t4/14.svg', alt='')
+                  img.w-75(src='@/assets/curso/temas/t4/14.svg')
                 .col-sm-12.col-lg-10
                     p.mb-0 Son contenidos permanentes que no dependen del tiempo. No utilizan categorías ni etiquetas y se organizan de forma jerárquica mediante páginas principales y subpáginas. Se emplean para información fija del sitio, como “quiénes somos”, “misión y visión”, “servicios”, “políticas” o “contacto”. Su función es presentar información estable que el usuario puede consultar en cualquier momento. Diferenciar correctamente entre páginas y entradas permite construir una estructura clara y funcional. Las entradas mantienen el sitio activo y actualizado, mientras que las páginas organizan la información esencial de forma permanente.
               p.mb-3 Un error común es utilizar entradas para publicar información que debería permanecer siempre visible, como reglamentos o datos de contacto. Debido a su naturaleza cronológica, este contenido se desplaza con el tiempo y se vuelve difícil de encontrar. Por esta razón, la información importante y de acceso constante debe ubicarse siempre en páginas.
               p.mb-0 Una adecuada organización entre páginas y entradas mejora la navegación, facilita el acceso a la información y contribuye a una mejor experiencia del usuario. Además, permite que el sitio web sea más claro, ordenado y profesional.
             .col-sm-12.col-lg-4.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t4/13.png', alt='')
+              img(src='@/assets/curso/temas/t4/13.png')
 
 
 
@@ -172,11 +172,11 @@
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t4/15.png', alt='')
+          img(src='@/assets/curso/temas/t4/15.png')
         .col-sm-12.col-lg-7 
           .row.justify-content-center.mb-4
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t4/16.svg', alt='')
+              img(src='@/assets/curso/temas/t4/16.svg')
             .col-sm-12.col-lg-10
                 p.mb-0   El punto de convergencia entre la arquitectura interna del sitio y la experiencia del usuario es el menú de navegación. Los menús funcionan como mapas interactivos que hacen parte de la diagramación visible del sitio web. En WordPress, su gestión se realiza desde el apartado “Apariencia”, donde es posible combinar enlaces a páginas, entradas, categorías o enlaces externos, organizándolos mediante una interfaz visual de arrastrar y soltar.
           p.mb-0 El diseño de los menús debe responder a principios de usabilidad y accesibilidad web. Un menú no debe entenderse como un espacio para acumular enlaces, sino como una herramienta que orienta al usuario y facilita la navegación. Por esta razón, su construcción implica tomar decisiones claras sobre qué información es más relevante y cómo debe presentarse.

@@ -9,13 +9,13 @@
       
       .row.justify-content-center.mb-5.align-items-center(data-aos='fade-right')
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/1.png', alt='')
+          img(src='@/assets/curso/temas/t1/1.png')
         .col-sm-12.col-lg-7
           p.mb-3 Para establecer la estructura de un sitio web de manera coherente, el primer paso técnico consiste en comprender la naturaleza del entorno en el que se desarrollará. La selección de la plataforma y la comprensión de su funcionamiento interno constituyen decisiones arquitectónicas fundamentales que determinarán el éxito, la escalabilidad y la adaptabilidad del proyecto a las necesidades del usuario final.
           .bg-color-1.p-4
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-2.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/2.svg', alt='')
+                img(src='@/assets/curso/temas/t1/2.svg')
               .col-sm-12.col-lg-10
                   p.mb-0 El ecosistema del desarrollo web ha evolucionado considerablemente, alejándose de los paradigmas que requerían la programación manual de extensas líneas de código en lenguajes complejos. En la actualidad, la gestión de la información digital se apoya en herramientas intermediarias que facilitan y democratizan el acceso al desarrollo web.
 
@@ -40,12 +40,12 @@
         .col-sm-12.col-lg-7
           .row.justify-content-center.mb-4.bg-color-1.p-4
             .col-sm-12.col-lg-2.d-none.d-lg-block
-              img(src='@/assets/curso/temas/t1/4.svg', alt='')
+              img(src='@/assets/curso/temas/t1/4.svg')
             .col-sm-12.col-lg-10
                 p.mb-0  Por ejemplo: un estudiante del programa de gastronomía del SENA que desee crear una plataforma para ofrecer servicios de banquetes puede centrarse en estructurar secciones como menús, galerías, testimonios y formularios de cotización, utilizando módulos preconstruidos (#[i plugins]), en lugar de invertir tiempo en programar cada funcionalidad desde cero. Esto facilita la transformación de las necesidades del usuario final en soluciones digitales funcionales, eficientes y coherentes.
           p.mb-0 WordPress ofrece una arquitectura modular que permite ampliar las funcionalidades de un sitio web mediante #[i plugins] y plantillas, adaptándose a los requerimientos específicos de cada proyecto. Esta flexibilidad posibilita la creación de sitios escalables, desde #[i blogs] personales hasta plataformas corporativas, sin comprometer la seguridad ni la estabilidad del sistema.
         .col-sm-12.col-lg-5.d-none.d-lg-block
-          img(src='@/assets/curso/temas/t1/5.png', alt='')
+          img(src='@/assets/curso/temas/t1/5.png')
 
       p.mb-5 El uso de WordPress fomenta el desarrollo de competencias analíticas y de diseño en el estudiante, ya que implica planificar la estructura de la información, organizar menús y categorías, y diseñar la experiencia del usuario de manera lógica y accesible. De esta forma, el estudiante no solo aprende a manejar la herramienta, sino que integra conocimientos de arquitectura web, usabilidad y comunicación digital, esenciales para la gestión efectiva de cualquier proyecto en línea.
 
@@ -59,12 +59,12 @@
       
       .row.justify-content-center.mb-5(data-aos='fade-right')
         .col-sm-12.col-lg-4.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/6.png', alt='')
+          img(src='@/assets/curso/temas/t1/6.png')
         .col-sm-12.col-lg-8.bg-color-2.p-4.mx-0
             p.mb-4 Para comprender el valor de un Sistema de gestión de contenidos (CMS, por sus siglas en inglés), es fundamental diferenciar entre la web estática y la web dinámica. Una página web estática es un documento fijo, escrito tradicionalmente en HTML, cuyo contenido no cambia a menos que el desarrollador modifique manualmente el archivo de código fuente. Por el contrario, WordPress genera páginas web dinámicas.
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-2.d-none.d-lg-block
-                img(src='@/assets/curso/temas/t1/7.svg', alt='')
+                img(src='@/assets/curso/temas/t1/7.svg')
               .col-sm-12.col-lg-10
                   p.mb-0  Una página web dinámica se construye “al vuelo” en el momento en que un usuario la solicita. Cuando un visitante ingresa a una URL administrada por WordPress, el sistema consulta una base de datos central, extrae la información solicitada (textos, imágenes, configuraciones de diseño) y la ensambla en milisegundos para presentarla en el navegador. Esta separación estructural entre el diseño (la plantilla o tema) y el contenido (los datos almacenados) es el principio rector de la gestión moderna de la información en línea.
 
@@ -146,7 +146,7 @@
 
       .row.justify-content-center.mb-0(data-aos='fade-right')
         .col-sm-12.col-lg-3.d-none.d-lg-block.mx-0.px-0
-          img(src='@/assets/curso/temas/t1/8.svg', alt='')
+          img(src='@/assets/curso/temas/t1/8.svg')
         .col-sm-12.col-lg-9.bg-color-2.p-4.mx-0.align-items-center
             p.mb-0.mg-cus-1 La elección entre ambas opciones debe basarse en un análisis de los requerimientos del proyecto. Si un usuario requiere un #[i blog] personal transitorio para una tarea académica, la inmediatez de WordPress.com resulta adecuada. No obstante, si un aprendiz desarrolla el sitio web corporativo de una Pyme que incluirá comercio electrónico, aulas virtuales o sistemas de reservas complejos, la estructura cerrada de WordPress.com constituirá un impedimento, haciendo necesaria la elección de WordPress.org para garantizar el control de la información y la soberanía de los datos empresariales. En el contexto de esta formación y de la práctica profesional, el enfoque principal se orienta hacia el dominio de la versión autoalojada (WordPress.org), debido a su potencial formativo y su impacto en el sector productivo.
   </template>

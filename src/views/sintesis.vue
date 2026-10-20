@@ -8,7 +8,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Texto alternativo: Diagrama del diseño de sitios web en WordPress que muestra fundamentos, entornos de instalación, interfaz (Back End y Front End), arquitectura de la información y usabilidad.")
+          img(src="@/assets/curso/sintesis.svg", alt="Diagrama del diseño de sitios web en WordPress que muestra fundamentos, entornos de instalación, interfaz (Back End y Front End), arquitectura de la información y usabilidad.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
